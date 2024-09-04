@@ -1,6 +1,6 @@
-# Hi there, I'm Vikram Talware, a data enthusiast!👋 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/VikramTalware) [![](https://visitcount.itsvg.in/api?id=vikramtalware&icon=0&color=0)](https://visitcount.itsvg.in) 
+# Hi there, I'm Vikram Talware, a data enthusiast!👋 [![](https://visitcount.itsvg.in/api?id=vikramtalware&icon=0&color=0)](https://visitcount.itsvg.in) 
 
-### About me:
+### About me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/VikramTalware)
 🔭 Currently, I’m advancing my skills in Statistics, A/B Testing, and Data Science through various courses and certifications. I’m focusing on advanced statistical analysis and predictive modeling.<br/>
 🌱 I’m eager to collaborate on data-driven projects that optimize user experiences, analyze trends, & enhance decision-making processes. <br/>
 ⚡ Fun fact: I enjoy exploring finance videos, analyzing financial trends, and reading data & analytics articles on Medium.
