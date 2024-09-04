@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on upskilling in Statistics, A/B Testing, and Data Science by taking multiple courses and certifications.<br/>
 🌱 I’m currently learning advanced techniques in statistical analysis, focusing on predictive modeling.<br/>
-👯 I’m looking to collaborate on data-driven projects that involve optimizing user experiences, analyzing trends, or improving decision-making processes.<br/>
+🤝 I’m looking to collaborate on data-driven projects that involve optimizing user experiences, analyzing trends, or improving decision-making processes.<br/>
 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/VikramTalware) <br/>
 ⚡ Fun fact: I enjoy watching finance videos, analyzing financial trends, and reading articles on data & analytics on Medium.
 
