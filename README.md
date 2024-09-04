@@ -1,16 +1,15 @@
-# Hi there, I'm Vikram Talware, a data enthusiast!👋 [![](https://visitcount.itsvg.in/api?id=vikramtalware&icon=0&color=0)](https://visitcount.itsvg.in)
+# Hi there, I'm Vikram Talware, a data enthusiast!👋 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/VikramTalware) [![](https://visitcount.itsvg.in/api?id=vikramtalware&icon=0&color=0)](https://visitcount.itsvg.in) 
 
-Profiles: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/VikramTalware) [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/vikramtalware) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/vikramtalware/)
+### About me:
+🔭 Currently, I’m advancing my skills in Statistics, A/B Testing, and Data Science through various courses and certifications. I’m focusing on advanced statistical analysis and predictive modeling.<br/>
+🌱 I’m eager to collaborate on data-driven projects that optimize user experiences, analyze trends, and enhance decision-making processes. <br/>
+⚡ Fun fact: I enjoy exploring finance videos, analyzing financial trends, and reading data & analytics articles on Medium.
 
-
-🔭 I’m currently working on upskilling in Statistics, A/B Testing, and Data Science by taking multiple courses and certifications.<br/>
-🌱 I’m currently learning advanced techniques in statistical analysis, focusing on predictive modeling.<br/>
-🤝 I’m looking to collaborate on data-driven projects that involve optimizing user experiences, analyzing trends, or improving decision-making processes.<br/>
-⚡ Fun fact: I enjoy watching finance videos, analyzing financial trends, and reading articles on data & analytics on Medium.
+<a href="https://www.hackerrank.com/profile/vikramtalware"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white" alt="Hackerrank" style="width: 100px;"></a>
+<a href="https://leetcode.com/u/vikramtalware/"><img src="https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" style="width: 100px;"></a>
 
 ---
-
-## 💻 Tech Stack:
+### Tech Stack:
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) 
 
@@ -24,7 +23,7 @@ Profiles: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=
 ![Power Bi](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 ---
-## 📊 GitHub Stats:
+### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vikramtalware&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=vikramtalware&theme=github_dark&hide_border=true)
 
 ---
