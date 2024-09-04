@@ -1,12 +1,11 @@
 # Hi there, I'm Vikram Talware, a data enthusiast!👋 [![](https://visitcount.itsvg.in/api?id=vikramtalware&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/vikramtalware) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/vikramtalware/)
+Profiles: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/VikramTalware) [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/vikramtalware) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/vikramtalware/)
 
 
 🔭 I’m currently working on upskilling in Statistics, A/B Testing, and Data Science by taking multiple courses and certifications.<br/>
 🌱 I’m currently learning advanced techniques in statistical analysis, focusing on predictive modeling.<br/>
 🤝 I’m looking to collaborate on data-driven projects that involve optimizing user experiences, analyzing trends, or improving decision-making processes.<br/>
-📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/VikramTalware) <br/>
 ⚡ Fun fact: I enjoy watching finance videos, analyzing financial trends, and reading articles on data & analytics on Medium.
 
 ---
